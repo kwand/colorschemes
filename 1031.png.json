@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/danielk/.config/wpg/wallpapers/1031.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#223741",
+        "foreground": "#f8ffff",
+        "cursor": "#f8ffff"
+    },
+    "colors": {
+        "color0": "#223741",
+        "color1": "#ae1450",
+        "color2": "#92bb34",
+        "color3": "#e8c964",
+        "color4": "#7f8ac5",
+        "color5": "#826c8a",
+        "color6": "#548f96",
+        "color7": "#cbd4d5",
+        "color8": "#335261",
+        "color9": "#ee0d65",
+        "color10": "#c3ff33",
+        "color11": "#ffff6c",
+        "color12": "#90a4ff",
+        "color13": "#b07cc3",
+        "color14": "#5ec5d2",
+        "color15": "#f8ffff"
+    }
+}
